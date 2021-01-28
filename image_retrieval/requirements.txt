@@ -1,0 +1,6 @@
+tensorflow
+skimage
+sklearn
+multiprocessing
+numpy
+matplotlib
